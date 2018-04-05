@@ -2,3 +2,8 @@
 	path = OCA/l10n-italy
 	url = git@github.com:OCA/l10n-italy.git
 	branch = 10.0
+
+[submodule "abstract-odoo/test_addons"]
+	path = abstract-odoo/test_addons
+	url = git@github.com:abstract-odoo/test_addons.git
+	branch = master
